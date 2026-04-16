@@ -45,7 +45,6 @@ user-api/
 │   ├── userRoutes.js          # User API endpoints
 │   └── productRoutes.js       # Product API endpoints
 ├── .env                       # Environment variables (not committed)
-├── .env.example               # Environment variable template
 ├── .gitignore
 ├── package.json
 └── server.js                  # App entry point
